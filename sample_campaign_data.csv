@@ -1,0 +1,541 @@
+date,campaign,platform,impressions,clicks,spend,conversions,revenue
+2026-07-01,Summer Running Shoe Sale,Google Ads,23004,832,1660.87,30,1155.22
+2026-07-02,Summer Running Shoe Sale,Google Ads,19578,689,1431.89,29,1335.66
+2026-07-03,Summer Running Shoe Sale,Google Ads,24689,899,951.83,32,1526.55
+2026-07-04,Summer Running Shoe Sale,Google Ads,18773,556,1126.9,11,764.54
+2026-07-05,Summer Running Shoe Sale,Google Ads,12303,419,713.38,22,585.32
+2026-07-06,Summer Running Shoe Sale,Google Ads,22355,557,1253.75,27,1299.65
+2026-07-07,Summer Running Shoe Sale,Google Ads,17721,586,554.55,22,748.6
+2026-07-08,Summer Running Shoe Sale,Google Ads,20214,704,1474.24,29,1074.22
+2026-07-09,Summer Running Shoe Sale,Google Ads,23381,824,1750.89,42,2451.95
+2026-07-10,Summer Running Shoe Sale,Google Ads,17662,678,1026.49,27,1113.94
+2026-07-11,Summer Running Shoe Sale,Google Ads,18943,572,742.31,33,1048.05
+2026-07-12,Summer Running Shoe Sale,Google Ads,18741,650,1535.14,46,2402.47
+2026-07-13,Summer Running Shoe Sale,Google Ads,23700,785,684.06,25,894.51
+2026-07-14,Summer Running Shoe Sale,Google Ads,22323,861,2016.54,25,1380.74
+2026-07-15,Summer Running Shoe Sale,Google Ads,25231,682,1222.13,33,2079.94
+2026-07-16,Summer Running Shoe Sale,Google Ads,25378,855,1389.8,39,1312.77
+2026-07-17,Summer Running Shoe Sale,Google Ads,21523,727,672.47,35,1885.48
+2026-07-18,Summer Running Shoe Sale,Google Ads,14159,494,661.82,33,881.52
+2026-07-19,Summer Running Shoe Sale,Google Ads,16938,638,1011.7,41,2411.19
+2026-07-20,Summer Running Shoe Sale,Google Ads,25012,746,488.35,18,1233.39
+2026-07-21,Summer Running Shoe Sale,Google Ads,21949,689,1062.94,57,2307.9
+2026-07-22,Summer Running Shoe Sale,Google Ads,20847,746,924.85,35,2080.26
+2026-07-23,Summer Running Shoe Sale,Google Ads,25423,942,2147.91,45,2649.78
+2026-07-24,Summer Running Shoe Sale,Google Ads,19362,697,943.76,45,1153.9
+2026-07-25,Summer Running Shoe Sale,Google Ads,17227,562,856.15,11,387.08
+2026-07-26,Summer Running Shoe Sale,Google Ads,17925,474,437.47,11,744.32
+2026-07-27,Summer Running Shoe Sale,Google Ads,20083,765,832.89,20,900.03
+2026-07-28,Summer Running Shoe Sale,Google Ads,27973,971,1493.49,46,2687.53
+2026-07-29,Summer Running Shoe Sale,Google Ads,26790,879,1916.87,33,2195.3
+2026-07-30,Summer Running Shoe Sale,Google Ads,18591,744,1142.13,47,1705.86
+2026-07-31,Summer Running Shoe Sale,Google Ads,20604,694,1312.18,34,1359.0
+2026-08-01,Summer Running Shoe Sale,Google Ads,16235,478,330.43,35,2316.86
+2026-08-02,Summer Running Shoe Sale,Google Ads,14312,520,760.53,14,765.34
+2026-08-03,Summer Running Shoe Sale,Google Ads,20819,582,837.21,28,1500.38
+2026-08-04,Summer Running Shoe Sale,Google Ads,20404,751,1006.89,35,2158.97
+2026-08-05,Summer Running Shoe Sale,Google Ads,18804,758,1700.98,41,2644.34
+2026-08-06,Summer Running Shoe Sale,Google Ads,21478,708,484.25,32,829.11
+2026-08-07,Summer Running Shoe Sale,Google Ads,23076,916,858.76,51,1364.47
+2026-08-08,Summer Running Shoe Sale,Google Ads,13475,522,950.13,24,935.42
+2026-08-09,Summer Running Shoe Sale,Google Ads,18992,727,1498.24,31,1627.0
+2026-08-10,Summer Running Shoe Sale,Google Ads,18699,718,482.09,45,3069.14
+2026-08-11,Summer Running Shoe Sale,Google Ads,28121,855,1034.2,53,1593.83
+2026-08-12,Summer Running Shoe Sale,Google Ads,22957,880,1024.93,16,973.93
+2026-08-13,Summer Running Shoe Sale,Google Ads,23153,787,1722.52,29,1473.6
+2026-08-14,Summer Running Shoe Sale,Google Ads,22425,697,538.95,40,2137.52
+2026-08-15,Summer Running Shoe Sale,Google Ads,18036,559,664.6,19,1216.52
+2026-08-16,Summer Running Shoe Sale,Google Ads,17498,557,360.97,30,1039.81
+2026-08-17,Summer Running Shoe Sale,Google Ads,18194,701,899.23,34,1548.46
+2026-08-18,Summer Running Shoe Sale,Google Ads,21412,813,1044.75,41,2247.21
+2026-08-19,Summer Running Shoe Sale,Google Ads,26983,942,1195.5,37,1283.07
+2026-08-20,Summer Running Shoe Sale,Google Ads,11782,387,288.99,19,970.09
+2026-08-21,Summer Running Shoe Sale,Google Ads,19754,780,1539.51,39,1208.78
+2026-08-22,Summer Running Shoe Sale,Google Ads,17097,653,1457.17,34,1318.81
+2026-08-23,Summer Running Shoe Sale,Google Ads,18303,590,552.75,18,1165.98
+2026-08-24,Summer Running Shoe Sale,Google Ads,22974,682,528.04,49,2937.12
+2026-08-25,Summer Running Shoe Sale,Google Ads,25662,937,1187.48,50,2417.25
+2026-08-26,Summer Running Shoe Sale,Google Ads,23287,714,770.57,33,1936.27
+2026-08-27,Summer Running Shoe Sale,Google Ads,24153,844,786.34,35,1890.12
+2026-08-28,Summer Running Shoe Sale,Google Ads,16732,690,1580.46,43,2578.72
+2026-08-29,Summer Running Shoe Sale,Google Ads,17280,619,576.91,29,1713.79
+2026-08-30,Summer Running Shoe Sale,Google Ads,20855,776,993.84,32,848.01
+2026-08-31,Summer Running Shoe Sale,Google Ads,28529,1056,1370.2,47,2701.27
+2026-09-01,Summer Running Shoe Sale,Google Ads,22769,876,1975.41,40,1248.07
+2026-09-02,Summer Running Shoe Sale,Google Ads,23378,669,579.61,24,1491.35
+2026-09-03,Summer Running Shoe Sale,Google Ads,20341,758,1802.65,34,1729.68
+2026-09-04,Summer Running Shoe Sale,Google Ads,23660,827,779.86,47,1634.37
+2026-09-05,Summer Running Shoe Sale,Google Ads,16341,558,810.29,30,1173.64
+2026-09-06,Summer Running Shoe Sale,Google Ads,14177,568,806.01,37,2582.28
+2026-09-07,Summer Running Shoe Sale,Google Ads,23894,889,927.97,41,1444.15
+2026-09-08,Summer Running Shoe Sale,Google Ads,18331,644,529.14,41,2612.58
+2026-09-09,Summer Running Shoe Sale,Google Ads,20048,661,1193.6,31,1510.08
+2026-09-10,Summer Running Shoe Sale,Google Ads,24023,812,1405.86,43,1840.49
+2026-09-11,Summer Running Shoe Sale,Google Ads,24737,1050,969.01,53,1594.96
+2026-09-12,Summer Running Shoe Sale,Google Ads,17989,489,496.43,30,1030.55
+2026-09-13,Summer Running Shoe Sale,Google Ads,16617,467,1049.31,18,705.43
+2026-09-14,Summer Running Shoe Sale,Google Ads,30789,1104,1132.47,35,2262.35
+2026-09-15,Summer Running Shoe Sale,Google Ads,22390,680,1339.55,22,1391.2
+2026-09-16,Summer Running Shoe Sale,Google Ads,26666,1049,1198.97,60,3542.62
+2026-09-17,Summer Running Shoe Sale,Google Ads,21658,728,1218.64,20,1342.98
+2026-09-18,Summer Running Shoe Sale,Google Ads,22340,801,612.6,19,966.95
+2026-09-19,Summer Running Shoe Sale,Google Ads,17447,638,1303.58,41,2212.59
+2026-09-20,Summer Running Shoe Sale,Google Ads,13905,434,584.67,24,1501.86
+2026-09-21,Summer Running Shoe Sale,Google Ads,27649,1033,1008.48,45,2682.57
+2026-09-22,Summer Running Shoe Sale,Google Ads,19113,862,541.15,63,2903.68
+2026-09-23,Summer Running Shoe Sale,Google Ads,23565,667,1028.47,43,1239.01
+2026-09-24,Summer Running Shoe Sale,Google Ads,26699,970,2209.47,41,1860.45
+2026-09-25,Summer Running Shoe Sale,Google Ads,22829,750,550.12,34,1189.96
+2026-09-26,Summer Running Shoe Sale,Google Ads,13711,477,456.07,12,705.15
+2026-09-27,Summer Running Shoe Sale,Google Ads,15342,477,979.13,20,1058.35
+2026-09-28,Summer Running Shoe Sale,Google Ads,20309,742,1302.43,28,1403.49
+2026-07-01,Search - Running Shoes,Google Ads,17972,546,701.49,18,1061.92
+2026-07-02,Search - Running Shoes,Google Ads,18543,590,1232.08,29,1827.37
+2026-07-03,Search - Running Shoes,Google Ads,20198,478,900.17,23,1465.45
+2026-07-04,Search - Running Shoes,Google Ads,10490,248,445.54,8,410.1
+2026-07-05,Search - Running Shoes,Google Ads,11952,300,338.03,11,488.22
+2026-07-06,Search - Running Shoes,Google Ads,15718,363,460.62,28,1894.35
+2026-07-07,Search - Running Shoes,Google Ads,19073,531,573.7,26,1227.79
+2026-07-08,Search - Running Shoes,Google Ads,15532,338,730.01,10,472.54
+2026-07-09,Search - Running Shoes,Google Ads,14716,456,953.26,16,741.04
+2026-07-10,Search - Running Shoes,Google Ads,17420,584,742.87,33,1123.99
+2026-07-11,Search - Running Shoes,Google Ads,15722,372,739.14,10,579.77
+2026-07-12,Search - Running Shoes,Google Ads,16427,513,365.47,18,649.39
+2026-07-13,Search - Running Shoes,Google Ads,17313,482,842.0,23,1068.22
+2026-07-14,Search - Running Shoes,Google Ads,18217,507,489.61,39,1482.44
+2026-07-15,Search - Running Shoes,Google Ads,16284,451,325.38,17,1015.45
+2026-07-16,Search - Running Shoes,Google Ads,15520,472,399.54,25,1489.29
+2026-07-17,Search - Running Shoes,Google Ads,16392,396,705.47,16,952.74
+2026-07-18,Search - Running Shoes,Google Ads,13590,306,325.16,9,423.15
+2026-07-19,Search - Running Shoes,Google Ads,12999,256,448.43,13,405.75
+2026-07-20,Search - Running Shoes,Google Ads,17228,456,1062.97,20,665.37
+2026-07-21,Search - Running Shoes,Google Ads,18653,432,270.92,22,816.94
+2026-07-22,Search - Running Shoes,Google Ads,17187,519,887.92,29,1269.96
+2026-07-23,Search - Running Shoes,Google Ads,19182,566,1280.78,26,1431.94
+2026-07-24,Search - Running Shoes,Google Ads,19588,564,947.87,32,1107.92
+2026-07-25,Search - Running Shoes,Google Ads,15659,453,365.05,29,767.34
+2026-07-26,Search - Running Shoes,Google Ads,8433,248,590.65,7,384.79
+2026-07-27,Search - Running Shoes,Google Ads,21912,581,1344.64,44,1764.74
+2026-07-28,Search - Running Shoes,Google Ads,18114,489,930.78,19,835.0
+2026-07-29,Search - Running Shoes,Google Ads,19492,554,668.14,21,649.95
+2026-07-30,Search - Running Shoes,Google Ads,20418,619,870.02,34,1275.98
+2026-07-31,Search - Running Shoes,Google Ads,19399,465,993.37,27,678.98
+2026-08-01,Search - Running Shoes,Google Ads,14229,301,257.8,12,670.62
+2026-08-02,Search - Running Shoes,Google Ads,8999,239,547.45,13,735.91
+2026-08-03,Search - Running Shoes,Google Ads,18358,569,461.84,27,717.79
+2026-08-04,Search - Running Shoes,Google Ads,20282,705,530.1,38,2257.63
+2026-08-05,Search - Running Shoes,Google Ads,20571,531,919.71,33,2105.6
+2026-08-06,Search - Running Shoes,Google Ads,17960,499,870.36,35,1470.76
+2026-08-07,Search - Running Shoes,Google Ads,22455,541,701.94,25,1708.28
+2026-08-08,Search - Running Shoes,Google Ads,15732,345,660.83,18,830.12
+2026-08-09,Search - Running Shoes,Google Ads,10494,337,376.9,19,540.85
+2026-08-10,Search - Running Shoes,Google Ads,21239,574,523.11,20,919.21
+2026-08-11,Search - Running Shoes,Google Ads,18964,477,1078.28,25,1268.78
+2026-08-12,Search - Running Shoes,Google Ads,18601,494,407.44,26,1204.76
+2026-08-13,Search - Running Shoes,Google Ads,16654,437,730.08,36,2304.65
+2026-08-14,Search - Running Shoes,Google Ads,18574,536,677.62,25,707.37
+2026-08-15,Search - Running Shoes,Google Ads,13838,412,595.42,10,685.85
+2026-08-16,Search - Running Shoes,Google Ads,14957,373,487.12,19,545.02
+2026-08-17,Search - Running Shoes,Google Ads,17475,524,860.9,23,909.96
+2026-08-18,Search - Running Shoes,Google Ads,21523,600,996.43,26,1294.05
+2026-08-19,Search - Running Shoes,Google Ads,20333,439,651.34,19,1004.39
+2026-08-20,Search - Running Shoes,Google Ads,21037,579,915.34,46,1984.25
+2026-08-21,Search - Running Shoes,Google Ads,17388,571,899.36,34,1705.54
+2026-08-22,Search - Running Shoes,Google Ads,17525,610,1380.4,36,1304.22
+2026-08-23,Search - Running Shoes,Google Ads,12133,370,828.25,20,799.18
+2026-08-24,Search - Running Shoes,Google Ads,17458,370,835.78,14,457.91
+2026-08-25,Search - Running Shoes,Google Ads,16731,445,864.15,30,940.53
+2026-08-26,Search - Running Shoes,Google Ads,21467,771,1504.45,17,1043.28
+2026-08-27,Search - Running Shoes,Google Ads,15068,391,243.55,7,226.13
+2026-08-28,Search - Running Shoes,Google Ads,14231,415,628.38,18,562.69
+2026-08-29,Search - Running Shoes,Google Ads,12498,319,315.74,15,688.74
+2026-08-30,Search - Running Shoes,Google Ads,17640,587,648.98,23,917.7
+2026-08-31,Search - Running Shoes,Google Ads,18245,505,670.73,25,1082.52
+2026-09-01,Search - Running Shoes,Google Ads,18168,429,497.19,36,1310.05
+2026-09-02,Search - Running Shoes,Google Ads,17741,534,899.5,17,536.61
+2026-09-03,Search - Running Shoes,Google Ads,20934,608,508.94,44,2477.62
+2026-09-04,Search - Running Shoes,Google Ads,18628,482,378.64,9,359.28
+2026-09-05,Search - Running Shoes,Google Ads,12520,383,862.81,27,756.47
+2026-09-06,Search - Running Shoes,Google Ads,15130,405,654.14,23,1277.37
+2026-09-07,Search - Running Shoes,Google Ads,12667,335,691.15,13,783.23
+2026-09-08,Search - Running Shoes,Google Ads,19261,661,713.14,17,1146.23
+2026-09-09,Search - Running Shoes,Google Ads,15862,366,839.01,14,586.1
+2026-09-10,Search - Running Shoes,Google Ads,18256,366,514.87,17,756.1
+2026-09-11,Search - Running Shoes,Google Ads,18691,570,1115.6,39,2154.17
+2026-09-12,Search - Running Shoes,Google Ads,14399,426,434.86,20,773.53
+2026-09-13,Search - Running Shoes,Google Ads,14023,316,373.43,16,534.33
+2026-09-14,Search - Running Shoes,Google Ads,13683,367,719.91,14,750.71
+2026-09-15,Search - Running Shoes,Google Ads,16630,502,823.44,24,976.07
+2026-09-16,Search - Running Shoes,Google Ads,25497,611,536.18,22,629.23
+2026-09-17,Search - Running Shoes,Google Ads,15231,396,418.33,13,905.03
+2026-09-18,Search - Running Shoes,Google Ads,17087,334,795.97,14,376.68
+2026-09-19,Search - Running Shoes,Google Ads,13221,276,514.55,17,675.85
+2026-09-20,Search - Running Shoes,Google Ads,13439,328,521.55,13,443.45
+2026-09-21,Search - Running Shoes,Google Ads,16185,546,357.93,36,1605.04
+2026-09-22,Search - Running Shoes,Google Ads,20989,537,331.33,46,3138.75
+2026-09-23,Search - Running Shoes,Google Ads,17016,470,360.85,32,840.22
+2026-09-24,Search - Running Shoes,Google Ads,13593,365,301.89,18,531.36
+2026-09-25,Search - Running Shoes,Google Ads,19274,602,724.7,37,1069.09
+2026-09-26,Search - Running Shoes,Google Ads,15176,440,697.33,33,974.07
+2026-09-27,Search - Running Shoes,Google Ads,13373,399,923.29,17,915.16
+2026-09-28,Search - Running Shoes,Google Ads,17632,502,1106.05,16,492.94
+2026-07-01,Brand Awareness - New Collection,Meta,36436,296,596.67,17,560.45
+2026-07-02,Brand Awareness - New Collection,Meta,33082,256,604.12,21,1343.44
+2026-07-03,Brand Awareness - New Collection,Meta,31141,465,701.81,23,1033.21
+2026-07-04,Brand Awareness - New Collection,Meta,19090,309,464.93,21,1372.33
+2026-07-05,Brand Awareness - New Collection,Meta,21398,280,641.32,14,410.8
+2026-07-06,Brand Awareness - New Collection,Meta,29680,102,167.53,6,288.04
+2026-07-07,Brand Awareness - New Collection,Meta,32530,525,1213.96,20,612.47
+2026-07-08,Brand Awareness - New Collection,Meta,33688,378,794.27,11,636.27
+2026-07-09,Brand Awareness - New Collection,Meta,29112,221,457.91,10,564.32
+2026-07-10,Brand Awareness - New Collection,Meta,30467,479,1128.16,20,551.25
+2026-07-11,Brand Awareness - New Collection,Meta,26349,248,174.11,12,309.9
+2026-07-12,Brand Awareness - New Collection,Meta,22043,270,406.79,11,600.12
+2026-07-13,Brand Awareness - New Collection,Meta,37577,483,1124.49,32,1470.16
+2026-07-14,Brand Awareness - New Collection,Meta,43168,375,767.1,16,918.37
+2026-07-15,Brand Awareness - New Collection,Meta,40413,169,383.05,10,613.26
+2026-07-16,Brand Awareness - New Collection,Meta,35757,418,514.35,24,879.05
+2026-07-17,Brand Awareness - New Collection,Meta,37161,110,198.54,3,207.4
+2026-07-18,Brand Awareness - New Collection,Meta,22983,194,178.54,7,238.86
+2026-07-19,Brand Awareness - New Collection,Meta,18204,216,371.4,10,340.19
+2026-07-20,Brand Awareness - New Collection,Meta,31515,510,421.56,24,1465.26
+2026-07-21,Brand Awareness - New Collection,Meta,37312,396,247.05,18,558.9
+2026-07-22,Brand Awareness - New Collection,Meta,27851,448,609.34,25,856.31
+2026-07-23,Brand Awareness - New Collection,Meta,33933,460,606.49,36,2365.17
+2026-07-24,Brand Awareness - New Collection,Meta,40782,645,746.18,28,1196.54
+2026-07-25,Brand Awareness - New Collection,Meta,24018,292,528.8,6,186.95
+2026-07-26,Brand Awareness - New Collection,Meta,15881,214,244.3,8,205.44
+2026-07-27,Brand Awareness - New Collection,Meta,33517,210,158.66,7,361.62
+2026-07-28,Brand Awareness - New Collection,Meta,27530,505,1040.16,30,1508.83
+2026-07-29,Brand Awareness - New Collection,Meta,33644,360,623.93,21,1341.35
+2026-07-30,Brand Awareness - New Collection,Meta,33140,414,333.46,24,1427.76
+2026-07-31,Brand Awareness - New Collection,Meta,36218,428,1020.93,8,352.55
+2026-08-01,Brand Awareness - New Collection,Meta,26946,285,261.13,13,745.52
+2026-08-02,Brand Awareness - New Collection,Meta,24224,527,760.75,17,642.78
+2026-08-03,Brand Awareness - New Collection,Meta,30245,484,896.12,19,1274.79
+2026-08-04,Brand Awareness - New Collection,Meta,36376,382,913.04,10,283.23
+2026-08-05,Brand Awareness - New Collection,Meta,21426,321,509.75,18,748.03
+2026-08-06,Brand Awareness - New Collection,Meta,37865,280,582.47,18,716.38
+2026-08-07,Brand Awareness - New Collection,Meta,27595,319,405.1,22,667.65
+2026-08-08,Brand Awareness - New Collection,Meta,19848,216,243.87,11,418.19
+2026-08-09,Brand Awareness - New Collection,Meta,23037,381,310.21,19,859.05
+2026-08-10,Brand Awareness - New Collection,Meta,32840,423,479.91,17,993.94
+2026-08-11,Brand Awareness - New Collection,Meta,33885,314,523.2,26,1187.96
+2026-08-12,Brand Awareness - New Collection,Meta,33657,741,1609.68,23,1494.35
+2026-08-13,Brand Awareness - New Collection,Meta,31195,306,215.16,12,406.37
+2026-08-14,Brand Awareness - New Collection,Meta,30276,309,514.29,15,1003.72
+2026-08-15,Brand Awareness - New Collection,Meta,23154,374,468.1,21,1044.66
+2026-08-16,Brand Awareness - New Collection,Meta,24011,275,489.25,16,462.72
+2026-08-17,Brand Awareness - New Collection,Meta,38675,469,786.35,20,896.07
+2026-08-18,Brand Awareness - New Collection,Meta,32973,300,497.05,11,442.36
+2026-08-19,Brand Awareness - New Collection,Meta,28669,113,248.09,7,323.33
+2026-08-20,Brand Awareness - New Collection,Meta,25739,230,536.9,12,368.79
+2026-08-21,Brand Awareness - New Collection,Meta,29735,482,1024.4,33,1580.8
+2026-08-22,Brand Awareness - New Collection,Meta,25066,362,260.16,12,773.57
+2026-08-23,Brand Awareness - New Collection,Meta,20418,239,524.42,20,612.39
+2026-08-24,Brand Awareness - New Collection,Meta,25065,215,286.83,10,661.91
+2026-08-25,Brand Awareness - New Collection,Meta,37255,373,544.28,9,625.74
+2026-08-26,Brand Awareness - New Collection,Meta,34791,423,950.0,18,661.99
+2026-08-27,Brand Awareness - New Collection,Meta,34632,333,755.49,7,240.11
+2026-08-28,Brand Awareness - New Collection,Meta,40013,129,145.47,6,391.28
+2026-08-29,Brand Awareness - New Collection,Meta,20914,245,147.29,11,751.47
+2026-08-30,Brand Awareness - New Collection,Meta,23273,199,371.06,10,685.47
+2026-08-31,Brand Awareness - New Collection,Meta,36531,365,772.0,24,706.97
+2026-09-01,Brand Awareness - New Collection,Meta,38912,444,573.45,27,1355.14
+2026-09-02,Brand Awareness - New Collection,Meta,33211,328,364.5,7,278.08
+2026-09-03,Brand Awareness - New Collection,Meta,32101,499,466.29,24,1561.28
+2026-09-04,Brand Awareness - New Collection,Meta,28187,383,735.23,17,495.27
+2026-09-05,Brand Awareness - New Collection,Meta,30053,356,685.45,13,685.74
+2026-09-06,Brand Awareness - New Collection,Meta,19526,336,744.4,9,440.96
+2026-09-07,Brand Awareness - New Collection,Meta,38287,404,367.16,18,892.89
+2026-09-08,Brand Awareness - New Collection,Meta,35291,590,1136.02,39,1107.22
+2026-09-09,Brand Awareness - New Collection,Meta,35394,207,130.54,11,362.19
+2026-09-10,Brand Awareness - New Collection,Meta,36601,386,658.5,27,1510.19
+2026-09-11,Brand Awareness - New Collection,Meta,33258,522,751.74,28,1160.72
+2026-09-12,Brand Awareness - New Collection,Meta,21388,217,224.76,11,492.91
+2026-09-13,Brand Awareness - New Collection,Meta,22068,164,348.7,7,370.03
+2026-09-14,Brand Awareness - New Collection,Meta,33347,456,728.91,28,1519.33
+2026-09-15,Brand Awareness - New Collection,Meta,27742,352,822.87,14,851.4
+2026-09-16,Brand Awareness - New Collection,Meta,31748,739,877.36,52,1918.02
+2026-09-17,Brand Awareness - New Collection,Meta,31587,470,452.15,32,1938.97
+2026-09-18,Brand Awareness - New Collection,Meta,29300,288,339.43,16,460.39
+2026-09-19,Brand Awareness - New Collection,Meta,25293,410,701.5,21,737.77
+2026-09-20,Brand Awareness - New Collection,Meta,19589,122,236.89,4,115.8
+2026-09-21,Brand Awareness - New Collection,Meta,35029,660,1491.07,31,854.72
+2026-09-22,Brand Awareness - New Collection,Meta,32611,414,767.95,20,789.87
+2026-09-23,Brand Awareness - New Collection,Meta,23978,312,577.22,16,888.34
+2026-09-24,Brand Awareness - New Collection,Meta,31921,481,587.64,32,1461.73
+2026-09-25,Brand Awareness - New Collection,Meta,35206,448,671.02,17,720.15
+2026-09-26,Brand Awareness - New Collection,Meta,29347,385,850.21,11,327.01
+2026-09-27,Brand Awareness - New Collection,Meta,30251,366,807.0,9,371.56
+2026-09-28,Brand Awareness - New Collection,Meta,45252,672,788.76,39,2226.84
+2026-07-01,Cart Abandoners Retargeting,Meta,16566,746,1509.38,40,2043.84
+2026-07-02,Cart Abandoners Retargeting,Meta,14661,755,1569.7,23,713.69
+2026-07-03,Cart Abandoners Retargeting,Meta,12329,551,1314.89,23,1477.21
+2026-07-04,Cart Abandoners Retargeting,Meta,8138,353,621.46,19,791.71
+2026-07-05,Cart Abandoners Retargeting,Meta,7908,373,426.46,17,442.01
+2026-07-06,Cart Abandoners Retargeting,Meta,17337,843,1716.28,25,1367.1
+2026-07-07,Cart Abandoners Retargeting,Meta,14431,642,603.15,37,2165.5
+2026-07-08,Cart Abandoners Retargeting,Meta,12468,654,937.19,15,915.37
+2026-07-09,Cart Abandoners Retargeting,Meta,14659,699,1475.99,31,1035.94
+2026-07-10,Cart Abandoners Retargeting,Meta,17071,703,1366.88,23,1434.07
+2026-07-11,Cart Abandoners Retargeting,Meta,12088,651,996.77,21,833.86
+2026-07-12,Cart Abandoners Retargeting,Meta,9105,363,458.72,22,1393.15
+2026-07-13,Cart Abandoners Retargeting,Meta,11912,665,1576.9,48,2297.05
+2026-07-14,Cart Abandoners Retargeting,Meta,11310,557,1287.02,13,768.27
+2026-07-15,Cart Abandoners Retargeting,Meta,11747,579,1178.67,45,1840.54
+2026-07-16,Cart Abandoners Retargeting,Meta,13707,751,866.26,33,2292.79
+2026-07-17,Cart Abandoners Retargeting,Meta,11229,548,1255.79,28,1916.91
+2026-07-18,Cart Abandoners Retargeting,Meta,9049,460,630.22,15,446.69
+2026-07-19,Cart Abandoners Retargeting,Meta,12425,738,983.66,28,1375.65
+2026-07-20,Cart Abandoners Retargeting,Meta,17172,907,783.04,56,1801.61
+2026-07-21,Cart Abandoners Retargeting,Meta,14378,753,909.73,33,976.16
+2026-07-22,Cart Abandoners Retargeting,Meta,12885,570,353.98,20,731.01
+2026-07-23,Cart Abandoners Retargeting,Meta,14738,653,1021.32,23,1274.64
+2026-07-24,Cart Abandoners Retargeting,Meta,17332,925,670.05,66,2345.83
+2026-07-25,Cart Abandoners Retargeting,Meta,12494,591,618.54,53,3101.5
+2026-07-26,Cart Abandoners Retargeting,Meta,8621,436,509.33,22,986.27
+2026-07-27,Cart Abandoners Retargeting,Meta,12389,642,1276.38,43,1610.17
+2026-07-28,Cart Abandoners Retargeting,Meta,18662,879,1549.39,18,535.26
+2026-07-29,Cart Abandoners Retargeting,Meta,16550,765,846.88,37,2578.87
+2026-07-30,Cart Abandoners Retargeting,Meta,13079,627,712.07,38,2530.62
+2026-07-31,Cart Abandoners Retargeting,Meta,12604,584,723.7,28,1788.88
+2026-08-01,Cart Abandoners Retargeting,Meta,14262,761,460.42,36,2278.92
+2026-08-02,Cart Abandoners Retargeting,Meta,8812,405,823.07,17,476.0
+2026-08-03,Cart Abandoners Retargeting,Meta,12974,638,1172.62,47,1572.97
+2026-08-04,Cart Abandoners Retargeting,Meta,17502,930,1758.83,43,1231.14
+2026-08-05,Cart Abandoners Retargeting,Meta,19400,875,825.47,66,2882.14
+2026-08-06,Cart Abandoners Retargeting,Meta,15383,847,1753.63,47,1393.68
+2026-08-07,Cart Abandoners Retargeting,Meta,12369,587,815.93,30,1482.13
+2026-08-08,Cart Abandoners Retargeting,Meta,7980,463,964.55,28,730.87
+2026-08-09,Cart Abandoners Retargeting,Meta,10060,525,935.75,12,731.12
+2026-08-10,Cart Abandoners Retargeting,Meta,19985,847,1792.36,47,1732.97
+2026-08-11,Cart Abandoners Retargeting,Meta,16712,754,1493.57,54,1693.04
+2026-08-12,Cart Abandoners Retargeting,Meta,12911,651,933.48,48,3234.05
+2026-08-13,Cart Abandoners Retargeting,Meta,15656,702,1276.94,33,1378.39
+2026-08-14,Cart Abandoners Retargeting,Meta,13787,628,688.89,46,1803.27
+2026-08-15,Cart Abandoners Retargeting,Meta,8532,477,291.1,35,2286.94
+2026-08-16,Cart Abandoners Retargeting,Meta,8812,438,703.48,28,1802.62
+2026-08-17,Cart Abandoners Retargeting,Meta,13903,688,612.21,54,2271.68
+2026-08-18,Cart Abandoners Retargeting,Meta,17688,802,1067.84,49,1858.01
+2026-08-19,Cart Abandoners Retargeting,Meta,13508,638,815.56,15,710.7
+2026-08-20,Cart Abandoners Retargeting,Meta,15500,744,1133.66,51,2912.12
+2026-08-21,Cart Abandoners Retargeting,Meta,13843,813,1674.98,36,2068.23
+2026-08-22,Cart Abandoners Retargeting,Meta,10841,503,532.19,23,699.34
+2026-08-23,Cart Abandoners Retargeting,Meta,9928,484,862.76,11,658.9
+2026-08-24,Cart Abandoners Retargeting,Meta,13715,691,1457.27,41,1381.77
+2026-08-25,Cart Abandoners Retargeting,Meta,13323,737,670.59,31,1254.81
+2026-08-26,Cart Abandoners Retargeting,Meta,12982,633,1161.77,41,2329.54
+2026-08-27,Cart Abandoners Retargeting,Meta,12038,552,399.21,20,1019.18
+2026-08-28,Cart Abandoners Retargeting,Meta,14440,669,1024.7,37,1337.85
+2026-08-29,Cart Abandoners Retargeting,Meta,10404,590,1183.34,23,614.98
+2026-08-30,Cart Abandoners Retargeting,Meta,8800,406,252.67,25,955.44
+2026-08-31,Cart Abandoners Retargeting,Meta,13357,728,506.78,38,2549.97
+2026-09-01,Cart Abandoners Retargeting,Meta,12067,578,735.54,25,1369.37
+2026-09-02,Cart Abandoners Retargeting,Meta,12634,623,1131.03,32,1130.62
+2026-09-03,Cart Abandoners Retargeting,Meta,14242,794,1028.68,46,2890.29
+2026-09-04,Cart Abandoners Retargeting,Meta,13536,673,755.03,11,387.63
+2026-09-05,Cart Abandoners Retargeting,Meta,9607,463,819.12,21,1318.51
+2026-09-06,Cart Abandoners Retargeting,Meta,8255,382,340.46,19,647.13
+2026-09-07,Cart Abandoners Retargeting,Meta,12612,588,622.64,39,2003.68
+2026-09-08,Cart Abandoners Retargeting,Meta,16953,904,1813.79,55,2605.15
+2026-09-09,Cart Abandoners Retargeting,Meta,10215,458,609.28,20,765.78
+2026-09-10,Cart Abandoners Retargeting,Meta,14005,580,1165.27,16,547.9
+2026-09-11,Cart Abandoners Retargeting,Meta,12945,587,605.96,20,951.82
+2026-09-12,Cart Abandoners Retargeting,Meta,11102,580,1238.15,22,997.12
+2026-09-13,Cart Abandoners Retargeting,Meta,10888,455,1052.5,19,650.23
+2026-09-14,Cart Abandoners Retargeting,Meta,14502,785,864.73,51,2214.7
+2026-09-15,Cart Abandoners Retargeting,Meta,16345,898,1978.83,64,2734.85
+2026-09-16,Cart Abandoners Retargeting,Meta,13979,647,1440.97,39,1384.44
+2026-09-17,Cart Abandoners Retargeting,Meta,15144,778,555.28,13,329.79
+2026-09-18,Cart Abandoners Retargeting,Meta,15141,710,443.5,10,284.22
+2026-09-19,Cart Abandoners Retargeting,Meta,9186,491,621.61,29,1764.9
+2026-09-20,Cart Abandoners Retargeting,Meta,11435,529,1202.37,44,1796.53
+2026-09-21,Cart Abandoners Retargeting,Meta,12338,603,738.74,40,2562.06
+2026-09-22,Cart Abandoners Retargeting,Meta,12342,531,860.47,35,2322.72
+2026-09-23,Cart Abandoners Retargeting,Meta,16193,753,510.37,22,1529.55
+2026-09-24,Cart Abandoners Retargeting,Meta,15830,748,1757.64,38,1454.56
+2026-09-25,Cart Abandoners Retargeting,Meta,15451,883,2005.23,28,880.25
+2026-09-26,Cart Abandoners Retargeting,Meta,12304,590,1090.7,38,1606.9
+2026-09-27,Cart Abandoners Retargeting,Meta,8513,412,377.52,22,1428.55
+2026-09-28,Cart Abandoners Retargeting,Meta,16181,854,1266.05,47,1914.41
+2026-07-01,Gym Partnership Program (B2B),LinkedIn,12286,320,525.31,11,422.31
+2026-07-02,Gym Partnership Program (B2B),LinkedIn,9662,129,247.68,5,313.42
+2026-07-03,Gym Partnership Program (B2B),LinkedIn,9088,151,356.21,6,290.82
+2026-07-04,Gym Partnership Program (B2B),LinkedIn,5570,139,193.22,4,240.12
+2026-07-05,Gym Partnership Program (B2B),LinkedIn,8404,133,138.99,4,249.83
+2026-07-06,Gym Partnership Program (B2B),LinkedIn,11844,327,392.1,21,1313.7
+2026-07-07,Gym Partnership Program (B2B),LinkedIn,13435,254,509.93,19,1241.55
+2026-07-08,Gym Partnership Program (B2B),LinkedIn,11689,361,562.15,13,639.04
+2026-07-09,Gym Partnership Program (B2B),LinkedIn,9461,250,584.97,10,674.93
+2026-07-10,Gym Partnership Program (B2B),LinkedIn,11804,260,540.03,15,856.4
+2026-07-11,Gym Partnership Program (B2B),LinkedIn,7948,162,111.68,8,449.85
+2026-07-12,Gym Partnership Program (B2B),LinkedIn,9250,196,394.61,5,204.89
+2026-07-13,Gym Partnership Program (B2B),LinkedIn,12121,219,133.66,14,558.87
+2026-07-14,Gym Partnership Program (B2B),LinkedIn,14191,295,403.71,19,718.34
+2026-07-15,Gym Partnership Program (B2B),LinkedIn,13438,296,427.92,18,792.37
+2026-07-16,Gym Partnership Program (B2B),LinkedIn,12368,291,314.67,15,838.88
+2026-07-17,Gym Partnership Program (B2B),LinkedIn,10616,307,459.81,8,473.76
+2026-07-18,Gym Partnership Program (B2B),LinkedIn,9756,211,474.56,16,779.87
+2026-07-19,Gym Partnership Program (B2B),LinkedIn,6871,131,229.85,10,424.7
+2026-07-20,Gym Partnership Program (B2B),LinkedIn,13112,235,523.83,14,814.43
+2026-07-21,Gym Partnership Program (B2B),LinkedIn,10298,251,498.31,8,470.65
+2026-07-22,Gym Partnership Program (B2B),LinkedIn,11045,140,291.8,8,304.81
+2026-07-23,Gym Partnership Program (B2B),LinkedIn,9190,256,278.03,16,576.07
+2026-07-24,Gym Partnership Program (B2B),LinkedIn,10601,267,474.47,13,839.49
+2026-07-25,Gym Partnership Program (B2B),LinkedIn,8498,224,390.43,10,599.22
+2026-07-26,Gym Partnership Program (B2B),LinkedIn,8935,164,368.83,8,259.83
+2026-07-27,Gym Partnership Program (B2B),LinkedIn,11295,220,363.8,15,473.41
+2026-07-28,Gym Partnership Program (B2B),LinkedIn,11407,350,301.48,17,1037.45
+2026-07-29,Gym Partnership Program (B2B),LinkedIn,12027,332,499.11,27,1215.98
+2026-07-30,Gym Partnership Program (B2B),LinkedIn,12697,228,231.56,10,421.28
+2026-07-31,Gym Partnership Program (B2B),LinkedIn,13094,353,654.13,15,1033.3
+2026-08-01,Gym Partnership Program (B2B),LinkedIn,8675,187,414.34,7,426.65
+2026-08-02,Gym Partnership Program (B2B),LinkedIn,7548,182,430.2,3,143.42
+2026-08-03,Gym Partnership Program (B2B),LinkedIn,10778,258,540.74,12,428.66
+2026-08-04,Gym Partnership Program (B2B),LinkedIn,12701,284,653.76,15,576.65
+2026-08-05,Gym Partnership Program (B2B),LinkedIn,8819,215,428.45,10,349.08
+2026-08-06,Gym Partnership Program (B2B),LinkedIn,13601,239,171.37,17,801.83
+2026-08-07,Gym Partnership Program (B2B),LinkedIn,10226,176,284.27,7,393.43
+2026-08-08,Gym Partnership Program (B2B),LinkedIn,8539,144,110.44,9,542.0
+2026-08-09,Gym Partnership Program (B2B),LinkedIn,8408,206,140.1,9,379.81
+2026-08-10,Gym Partnership Program (B2B),LinkedIn,10076,292,462.87,9,478.3
+2026-08-11,Gym Partnership Program (B2B),LinkedIn,12730,304,513.16,21,596.43
+2026-08-12,Gym Partnership Program (B2B),LinkedIn,11346,191,204.85,9,274.57
+2026-08-13,Gym Partnership Program (B2B),LinkedIn,11668,158,183.81,8,275.62
+2026-08-14,Gym Partnership Program (B2B),LinkedIn,10004,205,414.44,9,564.11
+2026-08-15,Gym Partnership Program (B2B),LinkedIn,9504,188,234.63,5,166.16
+2026-08-16,Gym Partnership Program (B2B),LinkedIn,9331,144,87.24,8,440.28
+2026-08-17,Gym Partnership Program (B2B),LinkedIn,11913,208,400.01,13,508.39
+2026-08-18,Gym Partnership Program (B2B),LinkedIn,8472,150,205.27,11,594.62
+2026-08-19,Gym Partnership Program (B2B),LinkedIn,13651,267,528.51,13,712.19
+2026-08-20,Gym Partnership Program (B2B),LinkedIn,8862,228,217.96,7,211.52
+2026-08-21,Gym Partnership Program (B2B),LinkedIn,12104,234,188.6,14,760.93
+2026-08-22,Gym Partnership Program (B2B),LinkedIn,7892,240,312.42,9,436.26
+2026-08-23,Gym Partnership Program (B2B),LinkedIn,7173,135,90.86,5,347.9
+2026-08-24,Gym Partnership Program (B2B),LinkedIn,14378,365,760.92,21,798.01
+2026-08-25,Gym Partnership Program (B2B),LinkedIn,14012,307,243.35,10,260.19
+2026-08-26,Gym Partnership Program (B2B),LinkedIn,9121,188,128.38,13,729.56
+2026-08-27,Gym Partnership Program (B2B),LinkedIn,11509,236,434.44,7,333.73
+2026-08-28,Gym Partnership Program (B2B),LinkedIn,8512,191,287.19,7,213.17
+2026-08-29,Gym Partnership Program (B2B),LinkedIn,6735,198,416.43,14,712.89
+2026-08-30,Gym Partnership Program (B2B),LinkedIn,8035,139,166.02,10,461.4
+2026-08-31,Gym Partnership Program (B2B),LinkedIn,10984,287,185.15,22,727.45
+2026-09-01,Gym Partnership Program (B2B),LinkedIn,12435,211,411.44,13,385.12
+2026-09-02,Gym Partnership Program (B2B),LinkedIn,10240,134,203.21,6,251.03
+2026-09-03,Gym Partnership Program (B2B),LinkedIn,10915,239,352.04,17,622.77
+2026-09-04,Gym Partnership Program (B2B),LinkedIn,13293,319,522.12,16,942.46
+2026-09-05,Gym Partnership Program (B2B),LinkedIn,7332,196,377.38,13,816.6
+2026-09-06,Gym Partnership Program (B2B),LinkedIn,8381,158,349.59,9,561.74
+2026-09-07,Gym Partnership Program (B2B),LinkedIn,11994,311,256.45,11,671.1
+2026-09-08,Gym Partnership Program (B2B),LinkedIn,11904,187,305.74,9,285.29
+2026-09-09,Gym Partnership Program (B2B),LinkedIn,13503,334,798.58,16,749.58
+2026-09-10,Gym Partnership Program (B2B),LinkedIn,13339,426,323.0,21,1255.98
+2026-09-11,Gym Partnership Program (B2B),LinkedIn,12105,297,679.46,10,672.95
+2026-09-12,Gym Partnership Program (B2B),LinkedIn,7312,168,361.1,10,566.1
+2026-09-13,Gym Partnership Program (B2B),LinkedIn,7605,153,231.36,10,639.36
+2026-09-14,Gym Partnership Program (B2B),LinkedIn,12305,300,596.97,17,565.65
+2026-09-15,Gym Partnership Program (B2B),LinkedIn,12341,313,345.42,24,706.38
+2026-09-16,Gym Partnership Program (B2B),LinkedIn,13711,287,183.36,10,521.26
+2026-09-17,Gym Partnership Program (B2B),LinkedIn,10841,208,464.18,5,316.32
+2026-09-18,Gym Partnership Program (B2B),LinkedIn,11969,251,354.3,9,419.76
+2026-09-19,Gym Partnership Program (B2B),LinkedIn,7805,171,223.11,4,262.1
+2026-09-20,Gym Partnership Program (B2B),LinkedIn,7361,166,166.91,9,506.99
+2026-09-21,Gym Partnership Program (B2B),LinkedIn,8697,142,148.53,8,217.94
+2026-09-22,Gym Partnership Program (B2B),LinkedIn,11607,226,138.89,16,968.02
+2026-09-23,Gym Partnership Program (B2B),LinkedIn,10911,204,203.51,7,397.97
+2026-09-24,Gym Partnership Program (B2B),LinkedIn,9106,149,349.67,13,659.89
+2026-09-25,Gym Partnership Program (B2B),LinkedIn,13141,302,694.16,13,848.53
+2026-09-26,Gym Partnership Program (B2B),LinkedIn,7619,226,178.49,12,359.66
+2026-09-27,Gym Partnership Program (B2B),LinkedIn,7760,175,125.82,9,302.62
+2026-09-28,Gym Partnership Program (B2B),LinkedIn,12695,176,212.23,14,782.76
+2026-07-01,Gen Z Streetwear Drop,TikTok,29146,360,231.18,13,760.8
+2026-07-02,Gen Z Streetwear Drop,TikTok,30589,478,348.93,18,1075.97
+2026-07-03,Gen Z Streetwear Drop,TikTok,18056,313,193.03,12,348.83
+2026-07-04,Gen Z Streetwear Drop,TikTok,23991,315,646.84,11,519.52
+2026-07-05,Gen Z Streetwear Drop,TikTok,24594,475,763.79,20,1366.57
+2026-07-06,Gen Z Streetwear Drop,TikTok,21842,520,1112.59,26,1752.68
+2026-07-07,Gen Z Streetwear Drop,TikTok,28145,681,485.19,46,1753.2
+2026-07-08,Gen Z Streetwear Drop,TikTok,22386,412,281.19,14,415.53
+2026-07-09,Gen Z Streetwear Drop,TikTok,21724,517,773.95,30,1068.76
+2026-07-10,Gen Z Streetwear Drop,TikTok,23338,412,729.59,13,805.37
+2026-07-11,Gen Z Streetwear Drop,TikTok,18972,317,456.81,17,440.63
+2026-07-12,Gen Z Streetwear Drop,TikTok,21564,387,520.85,20,1185.12
+2026-07-13,Gen Z Streetwear Drop,TikTok,22764,373,883.3,22,1467.87
+2026-07-14,Gen Z Streetwear Drop,TikTok,18875,310,353.65,16,508.97
+2026-07-15,Gen Z Streetwear Drop,TikTok,23352,493,307.86,16,646.75
+2026-07-16,Gen Z Streetwear Drop,TikTok,29082,456,959.22,17,1072.75
+2026-07-17,Gen Z Streetwear Drop,TikTok,24473,361,799.37,13,481.57
+2026-07-18,Gen Z Streetwear Drop,TikTok,19191,348,319.6,1,59.21
+2026-07-19,Gen Z Streetwear Drop,TikTok,13381,253,592.39,13,587.47
+2026-07-20,Gen Z Streetwear Drop,TikTok,24617,430,1017.42,17,478.46
+2026-07-21,Gen Z Streetwear Drop,TikTok,29809,534,1012.37,24,740.58
+2026-07-22,Gen Z Streetwear Drop,TikTok,24653,489,1050.67,26,1449.31
+2026-07-23,Gen Z Streetwear Drop,TikTok,22340,550,680.72,25,1734.57
+2026-07-24,Gen Z Streetwear Drop,TikTok,29428,592,1349.88,50,1915.45
+2026-07-25,Gen Z Streetwear Drop,TikTok,20234,350,503.0,10,375.33
+2026-07-26,Gen Z Streetwear Drop,TikTok,19799,337,624.37,9,287.09
+2026-07-27,Gen Z Streetwear Drop,TikTok,19773,427,976.09,39,1327.45
+2026-07-28,Gen Z Streetwear Drop,TikTok,23050,334,722.29,14,608.63
+2026-07-29,Gen Z Streetwear Drop,TikTok,24628,538,1085.98,31,1320.76
+2026-07-30,Gen Z Streetwear Drop,TikTok,27808,661,1432.46,28,1162.63
+2026-07-31,Gen Z Streetwear Drop,TikTok,31442,729,1180.74,23,851.81
+2026-08-01,Gen Z Streetwear Drop,TikTok,18041,330,504.22,19,1142.22
+2026-08-02,Gen Z Streetwear Drop,TikTok,21097,400,702.11,19,824.86
+2026-08-03,Gen Z Streetwear Drop,TikTok,28388,480,1059.14,21,639.26
+2026-08-04,Gen Z Streetwear Drop,TikTok,28738,395,719.17,22,1017.26
+2026-08-05,Gen Z Streetwear Drop,TikTok,21714,346,709.46,11,687.2
+2026-08-06,Gen Z Streetwear Drop,TikTok,24391,476,1015.21,25,1659.59
+2026-08-07,Gen Z Streetwear Drop,TikTok,25199,512,657.35,22,721.39
+2026-08-08,Gen Z Streetwear Drop,TikTok,19170,371,330.01,14,927.66
+2026-08-09,Gen Z Streetwear Drop,TikTok,25661,430,281.36,23,924.62
+2026-08-10,Gen Z Streetwear Drop,TikTok,25770,391,661.81,18,1103.35
+2026-08-11,Gen Z Streetwear Drop,TikTok,24470,456,326.01,22,1476.29
+2026-08-12,Gen Z Streetwear Drop,TikTok,24445,515,963.73,31,1359.58
+2026-08-13,Gen Z Streetwear Drop,TikTok,29792,657,657.26,43,2057.29
+2026-08-14,Gen Z Streetwear Drop,TikTok,26280,491,546.0,26,1599.78
+2026-08-15,Gen Z Streetwear Drop,TikTok,12799,195,332.48,9,377.4
+2026-08-16,Gen Z Streetwear Drop,TikTok,14000,290,268.59,14,955.72
+2026-08-17,Gen Z Streetwear Drop,TikTok,32402,426,882.01,24,1577.2
+2026-08-18,Gen Z Streetwear Drop,TikTok,28846,436,787.87,16,914.67
+2026-08-19,Gen Z Streetwear Drop,TikTok,24926,303,620.42,17,1182.44
+2026-08-20,Gen Z Streetwear Drop,TikTok,25045,443,282.22,9,513.15
+2026-08-21,Gen Z Streetwear Drop,TikTok,23192,420,942.11,26,1693.23
+2026-08-22,Gen Z Streetwear Drop,TikTok,18747,338,464.09,14,503.67
+2026-08-23,Gen Z Streetwear Drop,TikTok,19944,448,704.18,23,577.18
+2026-08-24,Gen Z Streetwear Drop,TikTok,27274,601,590.24,33,1191.25
+2026-08-25,Gen Z Streetwear Drop,TikTok,25749,592,1289.89,11,754.53
+2026-08-26,Gen Z Streetwear Drop,TikTok,25709,342,292.54,12,423.53
+2026-08-27,Gen Z Streetwear Drop,TikTok,27188,318,305.72,13,453.52
+2026-08-28,Gen Z Streetwear Drop,TikTok,21305,191,331.48,8,263.54
+2026-08-29,Gen Z Streetwear Drop,TikTok,12693,250,480.5,5,250.89
+2026-08-30,Gen Z Streetwear Drop,TikTok,17104,468,522.82,22,1004.73
+2026-08-31,Gen Z Streetwear Drop,TikTok,27296,426,876.86,18,1112.04
+2026-09-01,Gen Z Streetwear Drop,TikTok,33009,548,872.69,30,1414.15
+2026-09-02,Gen Z Streetwear Drop,TikTok,20163,322,574.29,16,704.43
+2026-09-03,Gen Z Streetwear Drop,TikTok,23501,469,360.36,15,828.94
+2026-09-04,Gen Z Streetwear Drop,TikTok,21722,483,1102.86,24,1475.51
+2026-09-05,Gen Z Streetwear Drop,TikTok,19025,284,204.56,13,880.52
+2026-09-06,Gen Z Streetwear Drop,TikTok,21296,444,414.14,29,1893.58
+2026-09-07,Gen Z Streetwear Drop,TikTok,24126,446,1019.24,19,1302.81
+2026-09-08,Gen Z Streetwear Drop,TikTok,24317,586,598.11,27,1242.36
+2026-09-09,Gen Z Streetwear Drop,TikTok,25135,490,332.79,26,1358.63
+2026-09-10,Gen Z Streetwear Drop,TikTok,26223,346,589.85,15,388.02
+2026-09-11,Gen Z Streetwear Drop,TikTok,13946,306,365.8,18,848.74
+2026-09-12,Gen Z Streetwear Drop,TikTok,23443,417,413.49,16,716.3
+2026-09-13,Gen Z Streetwear Drop,TikTok,21664,423,614.82,23,851.31
+2026-09-14,Gen Z Streetwear Drop,TikTok,22193,438,841.53,11,624.93
+2026-09-15,Gen Z Streetwear Drop,TikTok,32014,382,584.54,22,875.1
+2026-09-16,Gen Z Streetwear Drop,TikTok,20649,345,754.45,21,637.95
+2026-09-17,Gen Z Streetwear Drop,TikTok,20884,459,770.75,25,1081.45
+2026-09-18,Gen Z Streetwear Drop,TikTok,26843,494,1155.09,15,465.94
+2026-09-19,Gen Z Streetwear Drop,TikTok,18253,247,511.0,12,402.89
+2026-09-20,Gen Z Streetwear Drop,TikTok,19810,244,532.19,13,857.58
+2026-09-21,Gen Z Streetwear Drop,TikTok,29385,387,318.48,20,563.69
+2026-09-22,Gen Z Streetwear Drop,TikTok,33344,682,779.24,42,2382.53
+2026-09-23,Gen Z Streetwear Drop,TikTok,19661,559,995.79,33,1880.0
+2026-09-24,Gen Z Streetwear Drop,TikTok,32176,615,980.72,21,602.04
+2026-09-25,Gen Z Streetwear Drop,TikTok,30713,734,694.8,39,1431.83
+2026-09-26,Gen Z Streetwear Drop,TikTok,16769,405,724.61,23,858.1
+2026-09-27,Gen Z Streetwear Drop,TikTok,21639,433,602.7,14,786.25
+2026-09-28,Gen Z Streetwear Drop,TikTok,33600,535,1187.61,33,1879.35
