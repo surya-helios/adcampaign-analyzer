@@ -12,10 +12,10 @@ REQUIRED_COLUMNS = [
 ]
 # Categorical palette slots 1-4 (fixed order); color follows the platform, not its rank.
 PLATFORM_COLORS = {
-    "Google Ads": "#2a78d6",
-    "Meta": "#eb6834",
-    "LinkedIn": "#1baf7a",
-    "TikTok": "#eda100",
+    "Facebook": "#2a78d6",
+    "Instagram": "#eb6834",
+    "Pinterest": "#1baf7a",
+    "Twitter": "#eda100",
 }
 FALLBACK_COLOR = "#898781"
 INK = "#0b0b0b"
@@ -31,12 +31,12 @@ def make_sample_data() -> pd.DataFrame:
     rng = np.random.default_rng(11)
     dates = pd.date_range(end=pd.Timestamp.today().normalize(), periods=90)
     campaigns = [
-        ("First Box 50% Off", "Google Ads", 1.0, 0.035),
-        ("Fresh Eats Brand Story", "Meta", 1.4, 0.012),
-        ("Unfinished Order Reminder", "Meta", 0.6, 0.050),
-        ("Office Lunch Catering", "LinkedIn", 0.5, 0.022),
-        ("Student Meal Plan Launch", "TikTok", 1.1, 0.018),
-        ("Search - Meal Kit Delivery", "Google Ads", 0.8, 0.028),
+        ("First Box 50% Off", "Facebook", 1.0, 0.035),
+        ("Fresh Eats Brand Story", "Instagram", 1.4, 0.012),
+        ("Unfinished Order Reminder", "Facebook", 0.6, 0.050),
+        ("Office Lunch Catering", "Twitter", 0.5, 0.022),
+        ("Student Meal Plan Launch", "Instagram", 1.1, 0.018),
+        ("Weeknight Recipe Ideas", "Pinterest", 0.8, 0.028),
     ]
     rows = []
     for name, platform, scale, ctr in campaigns:
